@@ -18,4 +18,5 @@ while lista !=[] :
 	print('')
 	
 ## falta convertir a minuscula la respuesta , se me paso
+# tengo un problema con el espacio que tienen las respuesta dentro de la lista , para que ande tuve que borrar el espacio que tenian cada respuesta , pense en usar lista.partition , pero eso me retornaria 3 tuplas ( no), tengo una para space , respuesta y la tercer tupla que me devolveria ????   , 
 # solo me gustaria tener una opinion de este ejercicio :)
