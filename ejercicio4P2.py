@@ -17,4 +17,5 @@ while lista !=[] :
 	del lista[x]
 	print('')
 	
-## falta convertir a minuscula la respuesta
+## falta convertir a minuscula la respuesta , se me paso
+# solo me gustaria tener una opinion de este ejercicio :)
